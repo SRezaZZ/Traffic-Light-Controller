@@ -1,0 +1,26 @@
+# Vivado generated files
+.vivado/
+vivado/
+*.jou
+*.log
+*.str
+*.pb
+*.dcp
+*.rpt
+
+# Simulation outputs
+*.vcd
+*.wdb
+*.wlf
+
+# Build / generated files
+build/
+out/
+tmp/
+
+# Editor / OS files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
